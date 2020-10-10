@@ -1,0 +1,2 @@
+# botjs
+BOT MAJK
